@@ -1,2 +1,1 @@
-# COMP3104
-COMP3104 Dev ops repo
+# COMP3104 - Dev ops
